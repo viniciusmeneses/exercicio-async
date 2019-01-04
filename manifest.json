@@ -1,0 +1,22 @@
+[
+  {
+    "file": "files/1",
+    "metadata": "files/1.metadata.json"
+  },
+  {
+    "file": "files/2",
+    "metadata": "files/2.metadata.json"
+  },
+  {
+    "file": "files/3",
+    "metadata": "files/3.metadata.json"
+  },
+  {
+    "file": "files/4",
+    "metadata": "files/4.metadata.json"
+  },
+  {
+    "file": "files/6",
+    "metadata": "files/6.metadata.json"
+  }
+]
